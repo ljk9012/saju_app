@@ -1,0 +1,5 @@
+streamlit
+sajupy
+korean-lunar-calendar
+pandas
+geopy
